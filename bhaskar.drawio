@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T09:33:01.260Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="BHfhhiWOdcciLK_7zVZN" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T09:41:07.449Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="eQpFs2M-oeqV-ajZLts7" version="24.4.4" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62sTpGnNLeASL4iVha29-5" value="RAW" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="340" y="90" width="87" height="98" as="geometry" />
+          <mxGeometry x="410" y="90" width="87" height="98" as="geometry" />
         </mxCell>
         <mxCell id="62sTpGnNLeASL4iVha29-6" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
           <mxGeometry x="230" y="90" width="58" height="58" as="geometry" />
@@ -50,13 +50,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62sTpGnNLeASL4iVha29-11" value="Reporting" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="87" height="98" as="geometry" />
+          <mxGeometry x="780" y="90" width="87" height="98" as="geometry" />
         </mxCell>
         <mxCell id="62sTpGnNLeASL4iVha29-16" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="450" y="188" width="52" height="61" as="geometry" />
+          <mxGeometry x="570" y="100" width="52" height="61" as="geometry" />
         </mxCell>
         <mxCell id="62sTpGnNLeASL4iVha29-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.08;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="62sTpGnNLeASL4iVha29-16" target="62sTpGnNLeASL4iVha29-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62sTpGnNLeASL4iVha29-20" value="&lt;div&gt;Created CDS source connectors, These source connected can be created from meta data table, &amp;amp; these are designed way such a way the topic should be created without much effor&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Created Streams, joins, materelize, got UDF functions we can extend the streams and KSQL logic&lt;/div&gt;&lt;div&gt;Note: KSQL is well good and but it&#39;s not for data processing, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Now we got all the topics (data), so let&#39;s sink to Raw database. even it&#39;s raw database, better to have some model, let&#39;s say we go with data_vault&lt;/div&gt;&lt;div&gt;(Hub and Sats) &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="16.25" y="250" width="293.75" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="62sTpGnNLeASL4iVha29-21" value="&lt;div&gt;Created CDS source connectors, These source connected can be created from meta data table, &amp;amp; these are designed way such a way the topic should be created without much effor&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Created Streams, joins, materelize, got UDF functions we can extend the streams and KSQL logic&lt;/div&gt;&lt;div&gt;Note: KSQL is well good and but it&#39;s not for data processing, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Now we got all the topics (data), so let&#39;s sink to Raw database. even it&#39;s raw database, better to have some model, let&#39;s say we go with data_vault&lt;/div&gt;&lt;div&gt;(Hub and Sats) &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="293.75" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
