@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T08:01:29.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TxUquAL-SU85QzKJIN9P" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T08:02:05.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="i8tf9ARJXHggJGCrTAFr" version="24.6.4" type="github">
   <diagram name="Page-1" id="uHCma_FmaCSKborZXaRn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,8 @@
             <mxPoint x="340" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDAXVthCq3TNaY1uQa2G-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Digitrials lambda fuctions&lt;/h1&gt;&lt;p&gt;Digitrials lambda fuction&lt;/p&gt;&lt;p&gt;Loop threw each row of the digitrials tables&lt;/p&gt;&lt;p&gt;extract NIC number,&amp;nbsp;&lt;/p&gt;&lt;p&gt;extract col array &amp;amp; Flatter&lt;/p&gt;&lt;p&gt;import extractor class , extractor the DF for each cohort&lt;/p&gt;&lt;p&gt;Write to file&lt;/p&gt;&lt;p&gt;Create a mesh request&lt;/p&gt;&lt;p&gt;Email support and Case office&lt;/p&gt;&lt;p&gt;Update Dynamo DB&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="370" height="320" as="geometry" />
+        <mxCell id="vDAXVthCq3TNaY1uQa2G-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Digitrials lambda&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Loop threw each row of the digitrials tables&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;extract NIC number,&amp;nbsp;&lt;/p&gt;&lt;p&gt;extract col array &amp;amp; Flatten&lt;/p&gt;&lt;p&gt;import extractor class , extractor the DF for each cohort&lt;/p&gt;&lt;p&gt;Write to file&lt;/p&gt;&lt;p&gt;Create a mesh request&lt;/p&gt;&lt;p&gt;Email support and Case office&lt;/p&gt;&lt;p&gt;Update Dynamo DB&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="vDAXVthCq3TNaY1uQa2G-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDAXVthCq3TNaY1uQa2G-40">
           <mxGeometry relative="1" as="geometry">
