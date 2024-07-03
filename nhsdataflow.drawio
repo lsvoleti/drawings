@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T08:02:05.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="i8tf9ARJXHggJGCrTAFr" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T08:11:23.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qJnXCm4ja4ENBrpjaorD" version="24.6.4" type="github">
   <diagram name="Page-1" id="uHCma_FmaCSKborZXaRn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,16 +11,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDAXVthCq3TNaY1uQa2G-2" value="File move" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+        <mxCell id="vDAXVthCq3TNaY1uQa2G-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;File&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;move&lt;/font&gt;&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
           <mxGeometry x="220" y="50" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vDAXVthCq3TNaY1uQa2G-7" value="Landing" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+        <mxCell id="vDAXVthCq3TNaY1uQa2G-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Landing&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="150" y="45" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDAXVthCq3TNaY1uQa2G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDAXVthCq3TNaY1uQa2G-10" target="vDAXVthCq3TNaY1uQa2G-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vDAXVthCq3TNaY1uQa2G-12" value="Cohort&amp;nbsp;&lt;div&gt;Lands in S3 &lt;br&gt;Bucket&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vDAXVthCq3TNaY1uQa2G-11">
+        <mxCell id="vDAXVthCq3TNaY1uQa2G-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Cohort&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;lands in S3 &lt;br&gt;Bucket&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vDAXVthCq3TNaY1uQa2G-11">
           <mxGeometry x="0.0909" y="-4" relative="1" as="geometry">
             <mxPoint x="-20" y="-4" as="offset" />
           </mxGeometry>
@@ -31,13 +31,13 @@
         <mxCell id="vDAXVthCq3TNaY1uQa2G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vDAXVthCq3TNaY1uQa2G-7" target="vDAXVthCq3TNaY1uQa2G-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vDAXVthCq3TNaY1uQa2G-14" value="submitt" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+        <mxCell id="vDAXVthCq3TNaY1uQa2G-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;submissons&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="270" y="45" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDAXVthCq3TNaY1uQa2G-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="130" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vDAXVthCq3TNaY1uQa2G-26" value="After few steps&amp;nbsp;&lt;div&gt;Cohort arrives in&amp;nbsp;&lt;/div&gt;&lt;div&gt;databricks tables&amp;nbsp;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDAXVthCq3TNaY1uQa2G-24" target="vDAXVthCq3TNaY1uQa2G-30">
+        <mxCell id="vDAXVthCq3TNaY1uQa2G-26" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;After few steps&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Ixv8mfhsVUGZZnF8XqDp&quot;&gt;cohort arrives in&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Ixv8mfhsVUGZZnF8XqDp&quot;&gt;Databricks table&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDAXVthCq3TNaY1uQa2G-24" target="vDAXVthCq3TNaY1uQa2G-30">
           <mxGeometry x="0.6571" y="-35" relative="1" as="geometry">
             <mxPoint x="520" y="70" as="targetPoint" />
             <Array as="points">
@@ -64,7 +64,7 @@
             <mxPoint x="340" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDAXVthCq3TNaY1uQa2G-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Digitrials lambda&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Loop threw each row of the digitrials tables&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;extract NIC number,&amp;nbsp;&lt;/p&gt;&lt;p&gt;extract col array &amp;amp; Flatten&lt;/p&gt;&lt;p&gt;import extractor class , extractor the DF for each cohort&lt;/p&gt;&lt;p&gt;Write to file&lt;/p&gt;&lt;p&gt;Create a mesh request&lt;/p&gt;&lt;p&gt;Email support and Case office&lt;/p&gt;&lt;p&gt;Update Dynamo DB&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vDAXVthCq3TNaY1uQa2G-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Digitrials lambda&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Loop threw each row of the cohort table&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;extract NIC number&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;extract col array &amp;amp; flatten&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;Import extractor class , extractor the DF for each cohort&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;Extract to a file&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;Create a mesh request&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;Email support and case officer&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;By6SQ_CzczAgG9E-d-W3&quot;&gt;Update Dynamo DB&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="270" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="vDAXVthCq3TNaY1uQa2G-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDAXVthCq3TNaY1uQa2G-40">
